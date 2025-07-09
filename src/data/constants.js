@@ -174,28 +174,6 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
-    title: "To Do Web App",
-    date: "March 2025",
-    description:
-      "",
-    image: projectImg,
-    tags: [
-      "React Js", "HTML", "CSS", "JavaScript", "Node Js", "Express Js", "MySQL"
-    ],
-    category: "web app",
-    github: "",
-    webapp: "https://drive.google.com/drive/folders/1z5-EDEj30gGs01v_Xqkk85aKEHyJyn_p?usp=sharing",
-    member: [
-      {
-        name: "Karan Goplani",
-        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
-        linkedin: "https://www.linkedin.com/in/karangoplani72/",
-        github: "",
-      },
-    ],
-  },
-  {
     id: 1,
     title: "Personal Portfolio Website",
     date: "April 2025",
