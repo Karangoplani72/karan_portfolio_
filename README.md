@@ -4,7 +4,7 @@ This is my 3D portfolio website built using React.js and EmailJS.
 
 ## Live Demo
 
-Check out the live site here: [https://smayuraa.github.io/3D-Portfolio/](https://smayuraa.github.io/3D-Portfolio/)
+Check out the live site here: [https://karangoplani72.github.io/karan_portfolio_/](https://karangoplani72.github.io/karan_portfolio_/)
 
 ## Features
 
