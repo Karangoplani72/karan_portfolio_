@@ -37,7 +37,7 @@ const Wrapper = styled.div`
 function App() {
   return (
     <ThemeProvider theme={darkTheme}>
-      <BrowserRouter>
+      <BrowserRouter basename="/karan_portfolio_">
         <Navbar />
         <Body>
           {/* <StartCanvas /> */}
