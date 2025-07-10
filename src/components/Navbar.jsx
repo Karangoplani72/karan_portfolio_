@@ -132,7 +132,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="https://karangoplani72.github.io/karan_portfolio_/">Developer.</NavLogo>
+        <NavLogo to="/karangoplani72.github.io/karan_portfolio_/">Developer.</NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
