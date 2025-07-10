@@ -14,7 +14,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1me1jdoPKFZVGtlpEf_ZRfdTf8x_yh_Sn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/karangoplani72/",
-  twitter: "https://",
+  twitter: "https://x.com/karangoplani72",
   insta: "https://www.instagram.com/karangoplani72/",
   facebook: "https://www.facebook.com/karangoplani72",
 };
