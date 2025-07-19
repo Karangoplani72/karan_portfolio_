@@ -1,3 +1,4 @@
+import educationIMG from "./dholakiya.jpg";
 import projectImg from "./image.png";
 import projectImg2 from "./project2.png";
 import projectImg3 from "./project3.png";
@@ -163,7 +164,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://scontent.fpnq13-1.fna.fbcdn.net/v/t39.30808-1/302078145_490295826437978_7373990499362775230_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=cEcT1WWVyVoQ7kNvwHfsC_l&_nc_oc=AdkhVke8x9bQB1GQEJNXx6ZdD9VFiaJgs0DFyHDfDaeF4W_u-xrDJ0MvJAiz2Vsoear7ygifao_H_hlpj2EHS31A&_nc_zt=24&_nc_ht=scontent.fpnq13-1.fna&_nc_gid=Jce6VPdl4FNftwFW_aMXUQ&oh=00_AfTgn7fAqbFyJl6RzwzwZqAqPdB2oqxohW3LOUPfmYA8Jg&oe=687443D5",
+    img: educationIMG,
     school: "Shree G.K. Dholakiya School,Rajkot, Gujarat",
     date: "June 2018 - March 2019",
     grade: "73.40%",
