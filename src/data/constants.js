@@ -278,25 +278,25 @@ export const projects = [
       },
     ],
   },
-  {
-    id: 6,
-    title: "Cafe Management System",
-    date: "SEPTEMBER 2025",
-    description:
-      "A comprehensive Library Management System built using Java and MySQL, featuring user registration, book catalog management, borrowing/returning functionality, and admin controls for efficient library operations.",
-    image: projectImg5,
-    tags: ["Java", "MySQL", "OOP"],
-    category: "software",
-    github: "",
-    member: [
-      {
-        name: "Karan Goplani",
-        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
-        linkedin: "https://www.linkedin.com/in/karangoplani72/",
-        github: "",
-      },
-    ],
-  }
+  // {
+  //   id: 6,
+  //   title: "Cafe Management System",
+  //   date: "SEPTEMBER 2025",
+  //   description:
+  //     "A comprehensive Library Management System built using Java and MySQL, featuring user registration, book catalog management, borrowing/returning functionality, and admin controls for efficient library operations.",
+  //   image: projectImg5,
+  //   tags: ["Java", "MySQL", "OOP"],
+  //   category: "software",
+  //   github: "",
+  //   member: [
+  //     {
+  //       name: "Karan Goplani",
+  //       img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+  //       linkedin: "https://www.linkedin.com/in/karangoplani72/",
+  //       github: "",
+  //     },
+  //   ],
+  // }
   //{
   //new projects to be added here
   //}
