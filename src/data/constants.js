@@ -2,6 +2,12 @@ import educationIMG from "./dholakiya.jpg";
 import projectImg from "./image.png";
 import projectImg2 from "./project2.png";
 import projectImg3 from "./project3.png";
+import projectImg4 from "./project4.png";
+import projectImg5 from "./project5.png";
+import DPUimg from "./dpu.jpg";
+import intershipImg from "./artiset.jpg";
+import hnsImg from "./hns.png";
+import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
   roles: [
@@ -13,8 +19,9 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/karangoplani72",
   resume:
-    "https://drive.google.com/file/d/1me1jdoPKFZVGtlpEf_ZRfdTf8x_yh_Sn/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/karangoplani72/",
+    "https://drive.google.com/file/d/1OgyelRZ00ebwD61YHtL_pGLBMlhqql0_/view?usp=sharing",
+  //karangoplani81 drive link updated
+    linkedin: "https://www.linkedin.com/in/karangoplani72/",
   twitter: "https://x.com/karangoplani72",
   insta: "https://www.instagram.com/karangoplani72/",
   facebook: "https://www.facebook.com/karangoplani72",
@@ -114,10 +121,10 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C510BAQHkUrQ4UAzNug/company-logo_200_200/company-logo_200_200/0/1631416109741?e=1757548800&v=beta&t=PZCIzpQaYRpnsT60ofoW9NaXrTX47Xlt63Yk4KyQmC8",
+    img:intershipImg,
     role: "Software Developer Intern",
     company: "Artiset",
-    date: "January 2025 - Ongoing",
+    date: "January 2025 - July 2025",
     desc: "Worked on frontend tasks using HTML, CSS, and JavaScript. Gained hands-on experience in building responsive UI components and integrating APIs. Also focused on quality analysis by testing features, identifying bugs, and ensuring smooth user experience through regular feedback and improvements.",
     skills: [
       "HTML",
@@ -126,7 +133,7 @@ export const experiences = [
       "Manual Testing",
       "Bug Reporting"
     ],
-    doc: "https://drive.google.com/file/d/1rYkztfyuRoQTO1rypzdTgo89B85TmKpm/view?usp=drive_link"
+    //doc: "https://drive.google.com/file/d/1rYkztfyuRoQTO1rypzdTgo89B85TmKpm/view?usp=drive_link"
   }
 
 
@@ -137,7 +144,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D4D0BAQFxdG4Tc10X4w/company-logo_200_200/B4DZe_rz8FG8AI-/0/1751267626039/dpu_vidyapeeth_logo?e=1757548800&v=beta&t=rkXAjFbGcpcqmetBSVKBZoKEYFknCulK3-ls8e3UCy8",
+    img: DPUimg,
     school: "Dr. D. Y. Patil School of Science and Technology, Thatwade, Pune",
     date: "Aug 2024 - Ongoing",
     grade: "9.18 CGPA",
@@ -146,7 +153,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQHzf5zb2S1q2g/company-logo_200_200/company-logo_200_200/0/1705218912731?e=1757548800&v=beta&t=blasfqwwmZVmljQorh04qmyaJvaSn4OoAEQIOKpYgKY",
+    img: hnsImg,
     school: "Shree H.N. Shukla Group of Colleges, Rajkot, Gujarat",
     date: "Aug 2021 - July 2024",
     grade: "First Distinction - CGPA 8.17",
@@ -155,7 +162,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fpnq13-3.fna.fbcdn.net/v/t1.6435-1/66856294_219026932407817_5627274028189220864_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=xiH85iAedocQ7kNvwF3NgoB&_nc_oc=AdlSlLgb_CY9U4FBowBKXgUpwQda8AJ2isCZa0FHBwgphMpwVjM-j0Es9WVbU1y2lvW3EqI015LlaHw5QpM6Tvje&_nc_zt=24&_nc_ht=scontent.fpnq13-3.fna&_nc_gid=MLnV6OmqqSTGerZiYBzfiw&oh=00_AfS1WOznMMRZ469taBCQvS4CQ76ibGXPe7gxYc0dWxGHpw&oe=6895D1C2",
+    img: TapasviIMG,
     school: "Tapasvi School,Rajkot, Gujarat",
     date: "June 2020 - March 2021",
     grade: "69.20%",
@@ -231,6 +238,62 @@ export const projects = [
         img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
         linkedin: "https://www.linkedin.com/in/karangoplani72/",
         github: "https://github.com/karangoplani72",
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "Writer Portfolio Website",
+    date: "JUNE 2025",
+    description:
+      "A creative and responsive personal portfolio website built using HTML, CSS, and subtle animations to showcase writing and storytelling.",
+    image: projectImg4,
+    tags: ["HTML", "CSS", "React Js", "nodejs", "MySQL"],
+    category: "web app",
+    github: "https://kamya-portfolio.vercel.app/",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "https://github.com/karangoplani72",
+      },
+    ],
+  },
+  {
+    id: 5,
+    title: "Editor Portfolio Website",
+    date: "JULY 2025",
+    description:"A dynamic and responsive editing-portfolio site built using modern web technologies,showcasing visual media and design work with intuitive navigation and clean, engaging layout.",
+    image: projectImg5,
+    tags: ["HTML", "CSS", "JavaScript", "React Js", "nodejs", "MySQL"],
+    category: "web app",
+    github: "",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "",
+      },
+    ],
+  },
+  {
+    id: 6,
+    title: "Cafe Management System",
+    date: "SEPTEMBER 2025",
+    description:
+      "A comprehensive Library Management System built using Java and MySQL, featuring user registration, book catalog management, borrowing/returning functionality, and admin controls for efficient library operations.",
+    image: projectImg5,
+    tags: ["Java", "MySQL", "OOP"],
+    category: "software",
+    github: "",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "",
       },
     ],
   }
