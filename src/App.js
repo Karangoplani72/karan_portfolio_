@@ -10,6 +10,7 @@ import { BrowserRouter } from 'react-router-dom';
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 import Projects from "./components/sections/Projects";
+import { Analytics } from '@vercel/analytics/react';
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -53,10 +54,12 @@ function App() {
               <Contact />
             </Wrapper>
             <Footer />
+            <Analytics />
           </div>
         </Body>
       </BrowserRouter>
     </ThemeProvider>
+    
   );
 }
 
