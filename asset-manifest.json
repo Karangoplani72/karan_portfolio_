@@ -1,18 +1,24 @@
 {
   "files": {
     "main.css": "/karan_portfolio_/static/css/main.58a0c615.css",
-    "main.js": "/karan_portfolio_/static/js/main.cd9acb7d.js",
+    "main.js": "/karan_portfolio_/static/js/main.3aab3fca.js",
+    "static/media/project5.png": "/karan_portfolio_/static/media/project5.83ad3029880407e1bba0.png",
     "static/media/project3.png": "/karan_portfolio_/static/media/project3.395e04bdeb89aba16eec.png",
     "static/media/project2.png": "/karan_portfolio_/static/media/project2.51e905a390205a2bfc7f.png",
     "static/media/image.png": "/karan_portfolio_/static/media/image.97d4df90d2c057e91218.png",
+    "static/media/tapasvi.jpg": "/karan_portfolio_/static/media/tapasvi.8d7edda27114bb112e47.jpg",
+    "static/media/hns.png": "/karan_portfolio_/static/media/hns.8693d2122773d9de9eb0.png",
+    "static/media/project4.png": "/karan_portfolio_/static/media/project4.55c664986627f61b084e.png",
+    "static/media/artiset.jpg": "/karan_portfolio_/static/media/artiset.ddb1ad535d88bebe56b5.jpg",
     "static/media/HeroImage.jpg": "/karan_portfolio_/static/media/HeroImage.94baaa9b0f3643a0e4f1.jpg",
+    "static/media/dpu.jpg": "/karan_portfolio_/static/media/dpu.66b2dcf8319ffd354611.jpg",
     "static/media/dholakiya.jpg": "/karan_portfolio_/static/media/dholakiya.2301d7fba1b6a7d7160f.jpg",
     "index.html": "/karan_portfolio_/index.html",
     "main.58a0c615.css.map": "/karan_portfolio_/static/css/main.58a0c615.css.map",
-    "main.cd9acb7d.js.map": "/karan_portfolio_/static/js/main.cd9acb7d.js.map"
+    "main.3aab3fca.js.map": "/karan_portfolio_/static/js/main.3aab3fca.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.cd9acb7d.js"
+    "static/js/main.3aab3fca.js"
   ]
 }
