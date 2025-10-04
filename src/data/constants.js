@@ -1,12 +1,13 @@
+import intershipImg from "./artiset.jpg";
 import educationIMG from "./dholakiya.jpg";
+import DPUimg from "./dpu.jpg";
+import hnsImg from "./hns.png";
 import projectImg from "./image.png";
 import projectImg2 from "./project2.png";
 import projectImg3 from "./project3.png";
 import projectImg4 from "./project4.png";
 import projectImg5 from "./project5.png";
-import DPUimg from "./dpu.jpg";
-import intershipImg from "./artiset.jpg";
-import hnsImg from "./hns.png";
+import resume from "./resume_karan.pdf";
 import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
@@ -18,9 +19,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/karangoplani72",
-  resume:
-    "https://drive.google.com/file/d/1OgyelRZ00ebwD61YHtL_pGLBMlhqql0_/view?usp=sharing",
-  //karangoplani81 drive link updated
+  resume: resume,
     linkedin: "https://www.linkedin.com/in/karangoplani72/",
   twitter: "https://x.com/karangoplani72",
   insta: "https://www.instagram.com/karangoplani72/",
