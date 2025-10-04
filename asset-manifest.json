@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.6c219184.css",
-    "main.js": "/static/js/main.2c4003b5.js",
+    "main.js": "/static/js/main.196d13a2.js",
     "static/media/project5.png": "/static/media/project5.83ad3029880407e1bba0.png",
     "static/media/project3.png": "/static/media/project3.395e04bdeb89aba16eec.png",
     "static/media/project2.png": "/static/media/project2.51e905a390205a2bfc7f.png",
     "static/media/image.png": "/static/media/image.97d4df90d2c057e91218.png",
-    "static/media/resume_karan.pdf": "/static/media/resume_karan.dedbd2061e4e7598f74f.pdf",
+    "static/media/resume_karan.pdf": "/static/media/resume_karan.19996f1eb9eb1a6bb8dd.pdf",
     "static/media/tapasvi.jpg": "/static/media/tapasvi.8d7edda27114bb112e47.jpg",
     "static/media/hns.png": "/static/media/hns.8693d2122773d9de9eb0.png",
     "static/media/project4.png": "/static/media/project4.55c664986627f61b084e.png",
@@ -16,10 +16,10 @@
     "static/media/dholakiya.jpg": "/static/media/dholakiya.2301d7fba1b6a7d7160f.jpg",
     "index.html": "/index.html",
     "main.6c219184.css.map": "/static/css/main.6c219184.css.map",
-    "main.2c4003b5.js.map": "/static/js/main.2c4003b5.js.map"
+    "main.196d13a2.js.map": "/static/js/main.196d13a2.js.map"
   },
   "entrypoints": [
     "static/css/main.6c219184.css",
-    "static/js/main.2c4003b5.js"
+    "static/js/main.196d13a2.js"
   ]
 }
