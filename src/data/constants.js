@@ -306,7 +306,7 @@ export const projects = [
     date: "November 2025",
     description:" An interactive web application that visually demonstrates network concepts and protocols using React.js, enhancing understanding through dynamic animations and user engagement.",
     image: projectImg7,
-    tags: ["React Js"],
+    tags: ["HTML", "CSS", "JavaScript", "Python (Flask)"],
     category: "web app",
     //github: "https://github.com/karangoplani72",
     webapp: "https://vercel.com/karangoplani72s-projects/visualnetwork/",
