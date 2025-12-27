@@ -3,9 +3,10 @@ import educationIMG from "./dholakiya.jpg";
 import DPUimg from "./dpu.jpg";
 import hnsImg from "./hns.png";
 import projectImg from "./image.png";
-import projectImg2 from "./project2.png";
+import projectImg3 from "./project3.png";
 import projectImg4 from "./project4.png";
 import projectImg5 from "./project5.png";
+import projectImg6 from "./project6.png";
 import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
@@ -189,7 +190,7 @@ export const projects = [
       "React Js"
     ],
     category: "web app",
-    github: "https://github.com/karangoplani72/Gamified_Coding_Platform.git",
+    //github: "https://github.com/karangoplani72/",
     webapp: "https://karanportfolio-lemon.vercel.app/",
     member: [
       {
@@ -200,35 +201,17 @@ export const projects = [
       },
     ],
   },
-  {
-    id: 2,
-    title: "Nail Art Studio",
-    date: "MAY 2025",
-    description:
-      "A PHP-based dynamic website for a Nail Studio featuring service listings, appointment booking, and admin management.",
-    image: projectImg2,
-    tags: ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
-    category: "web app",
-    github: "",
-    member: [
-      {
-        name: "Karan Goplani",
-        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
-        linkedin: "https://www.linkedin.com/in/karangoplani72/",
-        github: "https://github.com/karangoplani72",
-      },
-    ],
-  },
   // {
-  //   id: 5,
+  //   id: 2,
   //   title: "Nail Art Studio",
   //   date: "MAY 2025",
   //   description:
-  //     "A responsive React.js website for a Nail Studio with service showcase, online booking, and interactive user interface.",
-  //   image: projectImg3,
-  //   tags: ["React Js"],
+  //     "A PHP-based dynamic website for a Nail Studio featuring service listings, appointment booking, and admin management.",
+  //   image: projectImg2,
+  //   tags: ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
   //   category: "web app",
   //   //github: "",
+  //   webapp: "https://nail-art-studio.vercel.app/",
   //   member: [
   //     {
   //       name: "Karan Goplani",
@@ -239,6 +222,26 @@ export const projects = [
   //   ],
   // },
   {
+    id: 5,
+    title: "Nail Art Studio",
+    date: "MAY 2025",
+    description:
+      "A responsive React.js website for a Nail Studio with service showcase, online booking, and interactive user interface.",
+    image: projectImg3,
+    tags: ["React Js"],
+    category: "web app",
+    //github: "https://github.com/karangoplani72",
+    webapp:"https://nail-studio-sepia.vercel.app/nail-studio",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "https://github.com/karangoplani72",
+      },
+    ],
+  },
+  {
     id: 3,
     title: "Writer Portfolio Website",
     date: "JUNE 2025",
@@ -247,7 +250,7 @@ export const projects = [
     image: projectImg4,
     tags: ["HTML", "CSS", "React Js", "nodejs", "MySQL"],
     category: "web app",
-    //github: "",
+    //github: "https://github.com/karangoplani72",
     webapp:"https://kamya-portfolio.vercel.app/",
     member: [
       {
@@ -266,14 +269,52 @@ export const projects = [
     image: projectImg5,
     tags: ["React Js"],
     category: "web app",
-    //github: "",
-    //webapp: "https://editor-portfolio-omega.vercel.app/",
+    //github: "https://github.com/karangoplani72",
+    webapp: "https://dhruv-edits.vercel.app/",
     member: [
       {
         name: "Karan Goplani",
         img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
         linkedin: "https://www.linkedin.com/in/karangoplani72/",
-        github: "",
+        github: "https://github.com/karangoplani72",
+      },
+    ],
+  },
+  {
+    id: 6,
+    title: "Visual DSA",
+    date: "November 2025",
+    description:" An interactive web application that visually demonstrates data structures and algorithms using React.js, enhancing understanding through dynamic animations and user engagement.",
+    image: projectImg6,
+    tags: ["React Js"],
+    category: "web app",
+    //github: "https://github.com/karangoplani72",
+    webapp: "https://visual-dsa-pied.vercel.app/",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "https://github.com/karangoplani72",
+      },
+    ],
+  },
+{
+    id: 7,
+    title: "Visual Network",
+    date: "November 2025",
+    description:" An interactive web application that visually demonstrates network concepts and protocols using React.js, enhancing understanding through dynamic animations and user engagement.",
+    image: projectImg6,
+    tags: ["React Js"],
+    category: "web app",
+    //github: "https://github.com/karangoplani72",
+    webapp: "https://vercel.com/karangoplani72s-projects/visualnetwork/",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "https://github.com/karangoplani72",
       },
     ],
   },

@@ -103,25 +103,25 @@ const Avatar = styled.img`
   }
 `;
 
-// const ButtonContainer = styled.div`
-//   display: flex;
-//   gap: 8px;
-// `;
+const ButtonContainer = styled.div`
+  display: flex;
+  gap: 8px;
+`;
 
-// const Button = styled.a`
-//   padding: 8px 14px;
-//   background-color: ${({ theme }) => theme.primary};
-//   color: ${({ theme }) => theme.white};
-//   font-size: 13px;
-//   font-weight: 600;
-//   text-decoration: none;
-//   border-radius: 8px;
-//   transition: background 0.3s ease;
+const Button = styled.a`
+  padding: 8px 14px;
+  background-color: ${({ theme }) => theme.primary};
+  color: ${({ theme }) => theme.white};
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.3s ease;
 
-//   &:hover {
-//     background-color: ${({ theme }) => theme.primaryDark || "#0056b3"};
-//   }
-// `;
+  &:hover {
+    background-color: ${({ theme }) => theme.primaryDark || "#0056b3"};
+  }
+`;
 
 const ProjectCard = ({ project }) => {
   return (
@@ -143,10 +143,10 @@ const ProjectCard = ({ project }) => {
             <Avatar key={i} src={member.img} alt={`Member ${i}`} />
           ))}
         </Members>
-        {/* <ButtonContainer>
-          <Button href={project.github} target="_blank">Code</Button>
+        <ButtonContainer>
+          {/* <Button href={project.github} target="_blank">Code</Button> */}
           <Button href={project.webapp} target="_blank">Live</Button>
-        </ButtonContainer> */}
+        </ButtonContainer>
       </BottomRow>
     </Card>
   );
