@@ -4,10 +4,8 @@ import DPUimg from "./dpu.jpg";
 import hnsImg from "./hns.png";
 import projectImg from "./image.png";
 import projectImg2 from "./project2.png";
-import projectImg3 from "./project3.png";
 import projectImg4 from "./project4.png";
 import projectImg5 from "./project5.png";
-import resume from "./resume_karan.pdf";
 import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
@@ -19,7 +17,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/karangoplani72",
-  resume: resume,
+  resume:"https://drive.google.com/file/d/13NctPdpJcCLXHX3V1uPt2bdAxUDTDTzS/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/karangoplani72/",
   twitter: "https://x.com/karangoplani72",
   insta: "https://www.instagram.com/karangoplani72/",
@@ -132,7 +130,7 @@ export const experiences = [
       "Manual Testing",
       "Bug Reporting"
     ],
-    //doc: "https://drive.google.com/file/d/1rYkztfyuRoQTO1rypzdTgo89B85TmKpm/view?usp=drive_link"
+    doc: "https://drive.google.com/file/d/1d8OBAxbi-aQIIGtHo7mzv4BAcK0C0To3/view?usp=sharing"
   }
 
 
@@ -188,11 +186,11 @@ export const projects = [
       "A modern and responsive personal portfolio website built using React.js.",
     image: projectImg,
     tags: [
-      "React Js", "HTML", "CSS"
+      "React Js"
     ],
     category: "web app",
-    //github: "https://github.com/karangoplani72/Gamified_Coding_Platform.git",
-    //webapp: "https://drive.google.com/drive/folders/1z5-EDEj30gGs01v_Xqkk85aKEHyJyn_p?usp=sharing",
+    github: "https://github.com/karangoplani72/Gamified_Coding_Platform.git",
+    webapp: "https://karanportfolio-lemon.vercel.app/",
     member: [
       {
         name: "Karan Goplani",
@@ -221,16 +219,36 @@ export const projects = [
       },
     ],
   },
+  // {
+  //   id: 5,
+  //   title: "Nail Art Studio",
+  //   date: "MAY 2025",
+  //   description:
+  //     "A responsive React.js website for a Nail Studio with service showcase, online booking, and interactive user interface.",
+  //   image: projectImg3,
+  //   tags: ["React Js"],
+  //   category: "web app",
+  //   //github: "",
+  //   member: [
+  //     {
+  //       name: "Karan Goplani",
+  //       img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+  //       linkedin: "https://www.linkedin.com/in/karangoplani72/",
+  //       github: "https://github.com/karangoplani72",
+  //     },
+  //   ],
+  // },
   {
     id: 3,
-    title: "Nail Art Studio",
-    date: "MAY 2025",
+    title: "Writer Portfolio Website",
+    date: "JUNE 2025",
     description:
-      "A responsive React.js website for a Nail Studio with service showcase, online booking, and interactive user interface.",
-    image: projectImg3,
+      "A creative and responsive personal portfolio website built using HTML, CSS, and subtle animations to showcase writing and storytelling.",
+    image: projectImg4,
     tags: ["HTML", "CSS", "React Js", "nodejs", "MySQL"],
     category: "web app",
-    github: "",
+    //github: "",
+    webapp:"https://kamya-portfolio.vercel.app/",
     member: [
       {
         name: "Karan Goplani",
@@ -242,32 +260,14 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Writer Portfolio Website",
-    date: "JUNE 2025",
-    description:
-      "A creative and responsive personal portfolio website built using HTML, CSS, and subtle animations to showcase writing and storytelling.",
-    image: projectImg4,
-    tags: ["HTML", "CSS", "React Js", "nodejs", "MySQL"],
-    category: "web app",
-    github: "https://kamya-portfolio.vercel.app/",
-    member: [
-      {
-        name: "Karan Goplani",
-        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
-        linkedin: "https://www.linkedin.com/in/karangoplani72/",
-        github: "https://github.com/karangoplani72",
-      },
-    ],
-  },
-  {
-    id: 5,
     title: "Editor Portfolio Website",
     date: "JULY 2025",
     description:"A dynamic and responsive editing-portfolio site built using modern web technologies,showcasing visual media and design work with intuitive navigation and clean, engaging layout.",
     image: projectImg5,
-    tags: ["HTML", "CSS", "JavaScript", "React Js", "nodejs", "MySQL"],
+    tags: ["React Js"],
     category: "web app",
-    github: "",
+    //github: "",
+    //webapp: "https://editor-portfolio-omega.vercel.app/",
     member: [
       {
         name: "Karan Goplani",
@@ -277,25 +277,6 @@ export const projects = [
       },
     ],
   },
-  // {
-  //   id: 6,
-  //   title: "Cafe Management System",
-  //   date: "SEPTEMBER 2025",
-  //   description:
-  //     "A comprehensive Library Management System built using Java and MySQL, featuring user registration, book catalog management, borrowing/returning functionality, and admin controls for efficient library operations.",
-  //   image: projectImg5,
-  //   tags: ["Java", "MySQL", "OOP"],
-  //   category: "software",
-  //   github: "",
-  //   member: [
-  //     {
-  //       name: "Karan Goplani",
-  //       img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
-  //       linkedin: "https://www.linkedin.com/in/karangoplani72/",
-  //       github: "",
-  //     },
-  //   ],
-  // }
   //{
   //new projects to be added here
   //}
