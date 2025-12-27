@@ -7,6 +7,7 @@ import projectImg3 from "./project3.png";
 import projectImg4 from "./project4.png";
 import projectImg5 from "./project5.png";
 import projectImg6 from "./project6.png";
+import projectImg7 from "./project7.png";
 import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
@@ -304,7 +305,7 @@ export const projects = [
     title: "Visual Network",
     date: "November 2025",
     description:" An interactive web application that visually demonstrates network concepts and protocols using React.js, enhancing understanding through dynamic animations and user engagement.",
-    image: projectImg6,
+    image: projectImg7,
     tags: ["React Js"],
     category: "web app",
     //github: "https://github.com/karangoplani72",
