@@ -19,7 +19,7 @@ export const Bio = {
   description:
     "I build web applications with an emphasis on clarity, usability, and practical problem solving. My work involves creating interactive user interfaces, connecting application logic with databases, and delivering reliable, well-structured solutions. I work with JavaScript, React, PHP, MySQL, and Flask, with a focus on clean implementation over unnecessary complexity.",
   github: "https://github.com/karangoplani72",
-  resume:"https://drive.google.com/file/d/13NctPdpJcCLXHX3V1uPt2bdAxUDTDTzS/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1NDyd3cXlFABNkpqdKo9EqvSp1otbXXyF/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/karangoplani72/",
   twitter: "https://x.com/karangoplani72",
   insta: "https://www.instagram.com/karangoplani72/",
