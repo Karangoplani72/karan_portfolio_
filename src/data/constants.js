@@ -12,12 +12,12 @@ import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
   roles: [
-    "Front End Developer",
-    "Quality Analyst",
-    "Programmer",
+    "Web Developer",
+  "Frontend-Focused Developer",
+  "Full-Stack Project Builder",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I build web applications with an emphasis on clarity, usability, and practical problem solving. My work involves creating interactive user interfaces, connecting application logic with databases, and delivering reliable, well-structured solutions. I work with JavaScript, React, PHP, MySQL, and Flask, with a focus on clean implementation over unnecessary complexity.",
   github: "https://github.com/karangoplani72",
   resume:"https://drive.google.com/file/d/13NctPdpJcCLXHX3V1uPt2bdAxUDTDTzS/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/karangoplani72/",
