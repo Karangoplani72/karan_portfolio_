@@ -8,6 +8,7 @@ import projectImg4 from "./project4.png";
 import projectImg5 from "./project5.png";
 import projectImg6 from "./project6.png";
 import projectImg7 from "./project7.png";
+import projectImg8 from "./project8.png";
 import TapasviIMG from "./tapasvi.jpg";
 export const Bio = {
   name: "KARAN GOPLANI",
@@ -310,6 +311,25 @@ export const projects = [
     category: "web app",
     //github: "https://github.com/karangoplani72",
     webapp: "https://vercel.com/karangoplani72s-projects/visualnetwork/",
+    member: [
+      {
+        name: "Karan Goplani",
+        img: "https://avatars.githubusercontent.com/u/92224864?s=400&u=1d609fde501621d9b0758f5c117dfdfdcd9d7462&v=4",
+        linkedin: "https://www.linkedin.com/in/karangoplani72/",
+        github: "https://github.com/karangoplani72",
+      },
+    ],
+  },
+  {
+    id: 7,
+    title: "DishaHire",
+    date: "January 2026",
+    description:"A modern recruitment and job consulting website built with React.js, designed to showcase live job opportunities, capture employer and candidate enquiries, and enable direct engagement through WhatsApp with a fast, static, and user-friendly experience.",
+    image: projectImg8,
+    tags: ["React Js","Vite App"],
+    category: "web app",
+    //github: "https://github.com/karangoplani72",
+    webapp: "https://www.dishahire.com/",
     member: [
       {
         name: "Karan Goplani",
